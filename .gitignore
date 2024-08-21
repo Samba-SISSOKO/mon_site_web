@@ -1,5 +1,7 @@
 tmp/*
 *.xml
 *.py
+*.txt
+
 
 
